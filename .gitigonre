@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# Debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# npm package lock file (optional, if you prefer to regenerate it)
+package-lock.json
+
+# Optional: Ignore coverage reports
+coverage/
+
+# Optional: Ignore build and deployment directories
+dist/
+build/
+
+# Optional: Ignore temporary files or directories
+tmp/
